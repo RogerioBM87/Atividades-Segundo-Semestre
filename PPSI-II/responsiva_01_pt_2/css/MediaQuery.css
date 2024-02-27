@@ -62,19 +62,19 @@ figure {
     }
 }
 
-@media screen and (max-width: 460px){
+@media screen and (max-width: 452px){
     main {
         display: flex;
         flex-wrap: nowrap;
         flex-flow: column wrap;
     }
     aside {
-        width: 178px;
+        width: 176px;
     }
     footer {
         position: absolute;
-        width: 178px;
-        top: 885px;
-        left: 224px;
+        width: 176px;
+        top: 939px;
+        left: 219px;
     }
 }
